@@ -1,40 +1,40 @@
 # StudyBuddy – Studieplanner voor studenten
 
-StudyBuddy is een gebruiksvriendelijke webapplicatie waarmee studenten hun studie beter kunnen organiseren: persoonlijke taken beheren, studiegroepen aanmaken, afspraken plannen en aanwezigheid registreren. [file:21]
+StudyBuddy is een gebruiksvriendelijke webapplicatie waarmee studenten hun studie beter kunnen organiseren: persoonlijke taken beheren, studiegroepen aanmaken, afspraken plannen en aanwezigheid registreren. 
 
 ## Belangrijkste functionaliteiten
 
-- Account aanmaken en inloggen (studenten & admins) [file:21]  
-- Persoonlijke taken: aanmaken, bewerken, prioriteit instellen, status bijhouden en deadlines beheren [file:21]  
-- Studiegroepen aanmaken en joinen via een unieke code [file:21]  
-- Afspraken plannen binnen studiegroepen [file:21]  
-- Aanwezigheidsregistratie per afspraak (ja / misschien / nee) [file:21]  
-- Dashboard met overzicht van openstaande taken, voltooiingspercentage en eerstvolgende afspraak [file:21]  
-- Admin-paneel om gebruikers te beheren (blokkeren, rol wijzigen) [file:21]  
+- Account aanmaken en inloggen (studenten & admins)   
+- Persoonlijke taken: aanmaken, bewerken, prioriteit instellen, status bijhouden en deadlines beheren   
+- Studiegroepen aanmaken en joinen via een unieke code   
+- Afspraken plannen binnen studiegroepen   
+- Aanwezigheidsregistratie per afspraak (ja / misschien / nee)   
+- Dashboard met overzicht van openstaande taken, voltooiingspercentage en eerstvolgende afspraak   
+- Admin-paneel om gebruikers te beheren (blokkeren, rol wijzigen)   
 
 ## Technische stack
 
-- PHP 8.1+ [file:21]  
-- Laravel 12.x [file:21]  
-- MySQL / MariaDB (of SQLite voor lokale tests) [file:21]  
-- Vite (voor asset build: CSS & JavaScript) [file:21]  
-- Bootstrap 5 voor front-end styling [file:21]  
-- Ingebouwde Laravel-authenticatie [file:21]  
+- PHP 8.1+   
+- Laravel 12.x   
+- MySQL / MariaDB (of SQLite voor lokale tests)   
+- Vite (voor asset build: CSS & JavaScript)   
+- Bootstrap 5 voor front-end styling   
+- Ingebouwde Laravel-authenticatie   
 
 ## Vereisten
 
-- PHP ≥ 8.1 [file:21]  
-- Composer [file:21]  
-- Node.js + npm [file:21]  
-- MySQL / MariaDB (of SQLite) [file:21]  
-- Git [file:21]  
+- PHP ≥ 8.1   
+- Composer   
+- Node.js + npm   
+- MySQL / MariaDB (of SQLite)   
+- Git   
 
 ## Installatie
 
 ### 1. Project clonen
 
 ```bash
-git clone https://github.com/JOUW-GITHUB/studybuddy.git
+git clone https://github.com/jouw-github-gebruikersnaam/studybuddy.git
 cd studybuddy
 ```
 
