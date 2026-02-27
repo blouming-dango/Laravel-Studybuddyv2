@@ -1,6 +1,6 @@
-# StudyBuddy – Studieplanner voor ROC Nova studenten
+# StudyBuddy – Studieplanner voor studenten
 
-StudyBuddy is een eenvoudige, gebruiksvriendelijke webapplicatie waarmee studenten van ROC Nova hun studie beter kunnen organiseren: persoonlijke taken beheren, studiegroepen aanmaken, afspraken plannen en aanwezigheid aangeven.
+StudyBuddy is een eenvoudige, gebruiksvriendelijke webapplicatie waarmee studenten van hun studie beter kunnen organiseren: persoonlijke taken beheren, studiegroepen aanmaken, afspraken plannen en aanwezigheid aangeven.
 
 ## Belangrijkste functionaliteiten
 
