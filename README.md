@@ -81,6 +81,8 @@ php artisan db:seed
 
 ### 6. Assets compileren
 
+Run deze commands in een apart Git Bash shell terminal. Dit werkt niet in een VSCode-terminal.
+
 Voor ontwikkeling (met hot-reloading):
 
 ```bash
