@@ -34,7 +34,7 @@ StudyBuddy is een gebruiksvriendelijke webapplicatie waarmee studenten hun studi
 ### 1. Project clonen
 
 ```bash
-git clone https://github.com/jouw-github-gebruikersnaam/studybuddy.git
+git clone https://github.com/blouming-dango/studybuddy.git
 cd studybuddy
 ```
 
